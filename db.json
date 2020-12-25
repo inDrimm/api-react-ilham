@@ -4,7 +4,6 @@
         "jenisProsedur" : "Golongan/KP",
         "nip" : "197003191997031001",
         "nama" : "Alan Hadi",
-        "tglPengusulan" : "01/08/2020",
         "progressUsulan" : "Pembuatan Pertek/SK"
     },
     {
@@ -12,7 +11,6 @@
         "jenisProsedur" : "Pendidikan",
         "nip" : "197003191997031002",
         "nama" : "Azis Pasha",
-        "tglPengusulan" : "01/08/2020",
         "progressUsulan" : "Validasi"
     },
     {
@@ -28,7 +26,6 @@
         "jenisProsedur" : "Pindah Instansi",
         "nip" : "197003191997031004",
         "nama" : "Raka Pratama",
-        "tglPengusulan" : "01/08/2020",
         "progressUsulan" : "Pembuatan Pertek/SK"
     },
     {
@@ -36,7 +33,6 @@
         "jenisProsedur" : "Profesi",
         "nip" : "197003191997031005",
         "nama" : "Figa Rizfa",
-        "tglPengusulan" : "01/08/2020",
         "progressUsulan" : "Validasi"
     },
     {
@@ -44,7 +40,48 @@
         "jenisProsedur" : "Kedudukan Hukum",
         "nip" : "197003191997031006",
         "nama" : "Ghifari Prameswari",
-        "tglPengusulan" : "22/08/2020",
         "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051012",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031007",
+        "nama" : "Ilham",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051013",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031008",
+        "nama" : "Hidayat",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051014",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031009",
+        "nama" : "Muhamad Ilham Hidayat",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051015",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031010",
+        "nama" : "Ilham Hidayat",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051016",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031011",
+        "nama" : "Diko Alfatha Ikhram",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051017",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031006",
+        "nama" : "Prasojo Bhekti",
+        "progressUsulan" : "Kedudukan Hukum"
     }
 ]
