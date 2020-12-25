@@ -1,0 +1,50 @@
+[
+    {
+        "NoSU" : "198609262015051001",
+        "jenisProsedur" : "Golongan/KP",
+        "nip" : "197003191997031001",
+        "nama" : "Alan Hadi",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+    {
+        "NoSU" : "198609262015051002",
+        "jenisProsedur" : "Pendidikan",
+        "nip" : "197003191997031002",
+        "nama" : "Azis Pasha",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+    {
+        "NoSU" : "198609262015051003",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031003",
+        "nama" : "Bimo Suryo",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+    {
+        "NoSU" : "198609262015051004",
+        "jenisProsedur" : "Pindah Instansi",
+        "nip" : "197003191997031004",
+        "nama" : "Raka Pratama",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+    {
+        "NoSU" : "198609262015051005",
+        "jenisProsedur" : "Profesi",
+        "nip" : "197003191997031005",
+        "nama" : "Figa Rizfa",
+        "tglPengusulan" : "01/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+    {
+        "NoSU" : "198609262015051011",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031006",
+        "nama" : "Ghifari Prameswari",
+        "tglPengusulan" : "22/08/2020",
+        "progressUsulan" : "Validasi"
+    }
+]
