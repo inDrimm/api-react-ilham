@@ -1,4 +1,5 @@
-[
+{
+"data" :[
     {
         "NoSU" : "198609262015051001",
         "jenisProsedur" : "Golongan/KP",
@@ -84,4 +85,5 @@
         "nama" : "Prasojo Bhekti",
         "progressUsulan" : "Kedudukan Hukum"
     }
-]
+	]
+}
