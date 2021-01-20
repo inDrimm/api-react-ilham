@@ -383,6 +383,14 @@
         "nama" : "Hafizh",
 		"tglPengusulan" : "02/08/2020",
         "progressUsulan" : "Kedudukan Hukum"
+    },
+	{
+        "NoSU" : "198609262015051051",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031051",
+        "nama" : "Alvin",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
     }
 	]
 }
