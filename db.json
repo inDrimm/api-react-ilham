@@ -1,5 +1,4 @@
-{
-"data" :[
+{"data" :[
     {
         "NoSU" : "198609262015051001",
         "jenisProsedur" : "Golongan/KP",
@@ -391,6 +390,14 @@
         "nama" : "Alvin",
 		"tglPengusulan" : "02/08/2020",
         "progressUsulan" : "Kedudukan Hukum"
+    },
+    {
+        "NoSU" : "198609262015051052",
+        "jenisProsedur" : "PMK",
+        "nip" : "1970031919970310452",
+        "nama" : "Maynard",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Validasi"
     }
-	]
+]
 }
