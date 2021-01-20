@@ -5,7 +5,7 @@
         "jenisProsedur" : "Golongan/KP",
         "nip" : "197003191997031001",
         "nama" : "Alan Hadi",
-	"tglPengusulan" : "02/08/2020",
+		"tglPengusulan" : "02/08/2020",
         "progressUsulan" : "Pembuatan Pertek/SK"
     },
     {
@@ -13,7 +13,7 @@
         "jenisProsedur" : "Pendidikan",
         "nip" : "197003191997031002",
         "nama" : "Azis Pasha",
-	"tglPengusulan" : "03/08/2020",
+		"tglPengusulan" : "03/08/2020",
         "progressUsulan" : "Validasi"
     },
     {
@@ -29,7 +29,7 @@
         "jenisProsedur" : "Pindah Instansi",
         "nip" : "197003191997031004",
         "nama" : "Raka Pratama",
-	"tglPengusulan" : "01/08/2020",
+		"tglPengusulan" : "01/08/2020",
         "progressUsulan" : "Pembuatan Pertek/SK"
     },
     {
@@ -37,7 +37,7 @@
         "jenisProsedur" : "Profesi",
         "nip" : "197003191997031005",
         "nama" : "Figa Rizfa",
-	"tglPengusulan" : "01/08/2020",
+		"tglPengusulan" : "01/08/2020",
         "progressUsulan" : "Validasi"
     },
     {
@@ -45,7 +45,7 @@
         "jenisProsedur" : "Kedudukan Hukum",
         "nip" : "197003191997031006",
         "nama" : "Ghifari Prameswari",
-	"tglPengusulan" : "02/08/2020",
+		"tglPengusulan" : "02/08/2020",
         "progressUsulan" : "Validasi"
     },
 	 {
@@ -53,7 +53,7 @@
         "jenisProsedur" : "PMK",
         "nip" : "197003191997031007",
         "nama" : "Ilham",
-	"tglPengusulan" : "03/08/2020",
+		"tglPengusulan" : "03/08/2020",
         "progressUsulan" : "Pembuatan Pertek/SK"
     },
 	 {
@@ -61,7 +61,7 @@
         "jenisProsedur" : "Golongan KP",
         "nip" : "197003191997031008",
         "nama" : "Hidayat",
-	"tglPengusulan" : "05/08/2020",
+		"tglPengusulan" : "05/08/2020",
         "progressUsulan" : "Pembuatan Pertek/SK"
     },
 	 {
@@ -69,7 +69,7 @@
         "jenisProsedur" : "PMK",
         "nip" : "197003191997031009",
         "nama" : "Muhamad Ilham Hidayat",
-	"tglPengusulan" : "05/08/2020",
+		"tglPengusulan" : "05/08/2020",
         "progressUsulan" : "Validasi"
     },
 	 {
@@ -85,7 +85,7 @@
         "jenisProsedur" : "PMK",
         "nip" : "197003191997031011",
         "nama" : "Diko Alfatha Ikhram",
-	"tglPengusulan" : "02/08/2020",
+		"tglPengusulan" : "02/08/2020",
         "progressUsulan" : "Validasi"
     },
 	 {
@@ -93,8 +93,296 @@
         "jenisProsedur" : "PMK",
         "nip" : "197003191997031006",
         "nama" : "Prasojo Bhekti",
-	"tglPengusulan" : "02/08/2020",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
+    },
+	 {
+        "NoSU" : "198609262015051018",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031007",
+        "nama" : "Rahman",
+		"tglPengusulan" : "03/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051019",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031019",
+        "nama" : "Surahman",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051020",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031020",
+        "nama" : "Yanto",
+		"tglPengusulan" : "05/08/2020",
         "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051021",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031021",
+        "nama" : "Ilham Hidayat",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051022",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031022",
+        "nama" : "Ikhram",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051023",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031023",
+        "nama" : "Bhekti",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
+    },
+	 {
+        "NoSU" : "198609262015051024",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031024",
+        "nama" : "Ikhsan Permana",
+		"tglPengusulan" : "03/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051025",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031025",
+        "nama" : "Dea",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051026",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031026",
+        "nama" : "Dewi",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051027",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031027",
+        "nama" : "Rachma",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051028",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031028",
+        "nama" : "Rivo Taufik",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051029",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031029",
+        "nama" : "Dimas",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
+    },
+	 {
+        "NoSU" : "198609262015051030",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031030",
+        "nama" : "Karina Octa",
+		"tglPengusulan" : "03/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051031",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031031",
+        "nama" : "Tika",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051032",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031032",
+        "nama" : "Nila",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051033",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031033",
+        "nama" : "Bayu",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051034",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031034",
+        "nama" : "Andin",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051035",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031035",
+        "nama" : "Farah",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
+    },
+	 {
+        "NoSU" : "198609262015051036",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031036",
+        "nama" : "Nerissa",
+		"tglPengusulan" : "03/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051037",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031037",
+        "nama" : "Lilis Kusnita",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051035",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031035",
+        "nama" : "Dheanda",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051036",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031036",
+        "nama" : "Octa",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051037",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031037",
+        "nama" : "Mega",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051038",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031038",
+        "nama" : "Farah Zahra",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
+    },
+	 {
+        "NoSU" : "198609262015051039",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031039",
+        "nama" : "Nadya",
+		"tglPengusulan" : "03/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051040",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031040",
+        "nama" : "Faranita",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051041",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031041",
+        "nama" : "Dea",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051042",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031042",
+        "nama" : "Yuliana",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051043",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031043",
+        "nama" : "Lulu",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051044",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031044",
+        "nama" : "Anggita",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
+    },
+	 {
+        "NoSU" : "198609262015051045",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031045",
+        "nama" : "Penny",
+		"tglPengusulan" : "03/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051046",
+        "jenisProsedur" : "Golongan KP",
+        "nip" : "197003191997031046",
+        "nama" : "Bimo",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051047",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031047",
+        "nama" : "Alan",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051048",
+        "jenisProsedur" : "Kedudukan Hukum",
+        "nip" : "197003191997031048",
+        "nama" : "Briliant",
+		"tglPengusulan" : "05/08/2020",
+        "progressUsulan" : "Pembuatan Pertek/SK"
+    },
+	 {
+        "NoSU" : "198609262015051049",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031049",
+        "nama" : "Fajar",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Validasi"
+    },
+	 {
+        "NoSU" : "198609262015051050",
+        "jenisProsedur" : "PMK",
+        "nip" : "197003191997031050",
+        "nama" : "Hafizh",
+		"tglPengusulan" : "02/08/2020",
+        "progressUsulan" : "Kedudukan Hukum"
     }
 	]
 }
